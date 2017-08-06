@@ -3,7 +3,7 @@ Data Science Working Group working with the Small Business Administration (SBA) 
 
 This project is part of [Data Science Working Group at Code for San Francisco](https://github.com/sfbrigade/data-science-wg)
 
-If you're looking to jump right in, please see our [Onboarding doc](https://github.com/sfbrigade/datasci-sba/blob/master/onboarding.md).
+If you're looking to jump right in, please see our [Onboarding documentation](https://github.com/sfbrigade/datasci-sba/tree/master/onboarding).
 
 ## Project Description
 At a fundamental level, what the SBA does is a public/private partnership. The SBA is a federal government agency, albeit fairly decentralized. In particular, business owners very rarely interact directly with the SBA. For example, a business owner will still go to a bank to get a loan backed by the SBA (as opposed to going directly into an SBA office to get a loan). Another example would be business owners might go to a non-profit funded by an SBA to get counseling. The SBA is engaged with in business support in three primary areas:
@@ -52,34 +52,4 @@ Two major challenges from office perspective
 |Dianna Yau |dyau   |
 |Vincent La|vincela14 |
 |Gregory Boyer|boyer |
-
-## Tech
-
-## Contributing
-Please see our [Onboarding doc](https://github.com/sfbrigade/datasci-sba/blob/master/onboarding.md) to get started.
-
-[Fork this repo](https://help.github.com/articles/fork-a-repo/), then clone your repo locally
-```
-$ git clone <your-repo>
-$ cd <this-repo's-name>
-$ git remote add upstream <this-repo>
-```
-Create a feature branch:
-```
-$ git checkout -b <feature-branch>
-```
-Do some work:  
-```
-$ vim <some-files>
-```
-When you're ready, commit, [merge any upstream changes](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/), [deal with conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/), and push your branch ([aka, forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow))   
-```
-$ git add <edited-files>
-$ git commit -m 'my awesome feature'
-$ git pull upstream master
-  # solve conflicts
-$ git push
-```
-[Create a Pull Request](https://help.github.com/articles/creating-a-pull-request/) from your pushed branch (compare branch) to this repo (base branch)   
-...  
-Profit!
+|Michael Mathews|makfan |
